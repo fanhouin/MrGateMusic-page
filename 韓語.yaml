@@ -1,20 +1,40 @@
-- link: https://www.youtube.com/watch?v=q94wGv41JwI
-  name: EXID(이엑스아이디) - 'WE ARE..' (Official Music Video)
-- link: https://www.youtube.com/watch?v=y5MAgMVwfFs
-  name: 좋다고 말해 - 볼빨간사춘기
-- link: https://www.youtube.com/watch?v=uLUvHUzd4UA
-  name: Zion.T(자이언티) _ Yanghwa BRDG(양화대교)
-- link: https://www.youtube.com/watch?v=--zku6TB5NY
-  name: BIGBANG - ‘LAST DANCE’ M/V
-- link: https://www.youtube.com/watch?v=GywDFkY3z-c
-  name: LEE SUHYUN - ‘ALIEN’ M/V
-- link: https://www.youtube.com/watch?v=eN5mG_yMDiM
-  name: BIGBANG - '봄여름가을겨울 (Still Life)' M/V
-- link: https://www.youtube.com/watch?v=mDOhKtAgKZw
-  name: '[슬기로운 감빵생활 OST] 헤이즈 (Heize) - 좋았을걸 (Would Be Better) MV'
-- link: https://www.youtube.com/watch?v=_ZAgIHmHLdc
-  name: NewJeans (뉴진스) 'OMG' Official MV
-- link: https://www.youtube.com/watch?v=DTl4Ib4qbzg
-  name: Akdong Musician(AKMU) - '눈,코,입(EYES, NOSE, LIPS)' COVER VIDEO
-- link: https://www.youtube.com/watch?v=Gw2jHej29QE
-  name: NewJeans (뉴진스) 'Ditto' Official MV (side A)
+- allName: EXID(이엑스아이디) - 'WE ARE..' (Official Music Video)
+  artist: EXID
+  music: WE ARE..
+  url: https://www.youtube.com/watch?v=q94wGv41JwI
+- allName: 좋다고 말해 - 볼빨간사춘기
+  artist: Bolbbalgan4
+  music: Tell Me You Like Me
+  url: https://www.youtube.com/watch?v=y5MAgMVwfFs
+- allName: Zion.T(자이언티) _ Yanghwa BRDG(양화대교)
+  artist: Zion.T
+  music: Yanghwa BRDG
+  url: https://www.youtube.com/watch?v=uLUvHUzd4UA
+- allName: BIGBANG - ‘LAST DANCE’ M/V
+  artist: BIGBANG
+  music: LAST DANCE
+  url: https://www.youtube.com/watch?v=--zku6TB5NY
+- allName: LEE SUHYUN - ‘ALIEN’ M/V
+  artist: LEE SUHYUN
+  music: ALIEN
+  url: https://www.youtube.com/watch?v=GywDFkY3z-c
+- allName: BIGBANG - '봄여름가을겨울 (Still Life)' M/V
+  artist: BIGBANG
+  music: 봄여름가을겨울 (Still Life)
+  url: https://www.youtube.com/watch?v=eN5mG_yMDiM
+- allName: '[슬기로운 감빵생활 OST] 헤이즈 (Heize) - 좋았을걸 (Would Be Better) MV'
+  artist: Heize
+  music: 좋았을걸 (Would Be Better)
+  url: https://www.youtube.com/watch?v=mDOhKtAgKZw
+- allName: NewJeans (뉴진스) 'OMG' Official MV
+  artist: NewJeans
+  music: OMG
+  url: https://www.youtube.com/watch?v=_ZAgIHmHLdc
+- allName: Akdong Musician(AKMU) - '눈,코,입(EYES, NOSE, LIPS)' COVER VIDEO
+  artist: AKMU
+  music: 눈,코,입(EYES, NOSE, LIPS) COVER
+  url: https://www.youtube.com/watch?v=DTl4Ib4qbzg
+- allName: NewJeans (뉴진스) 'Ditto' Official MV (side A)
+  artist: NewJeans
+  music: Ditto
+  url: https://www.youtube.com/watch?v=Gw2jHej29QE

@@ -1,26 +1,52 @@
-- link: https://www.youtube.com/watch?v=mRCfFS0SsCk
-  name: ウ”ィ”エ” チ”ャ”マ”
-- link: https://www.youtube.com/watch?v=3VTHooAhzz8
-  name: 520跟487坐海盜船
-- link: https://www.youtube.com/watch?v=ugYnm9n1TgI
-  name: 我總在每一個黑夜想倪，嘲笑自己傻得可以。
-- link: https://www.youtube.com/watch?v=lRnHHYoGa0s
-  name: 能不能再聽一聽，聽倪的聲音。
-- link: https://www.youtube.com/watch?v=X2WH8mHJnhM
-  name: My Heart Will Go On - Recorder By Candlelight by Matt Mulholland
-- link: https://www.youtube.com/watch?v=PWEbAX9TmMo
-  name: 威傅串燒3
-- link: https://www.youtube.com/watch?v=CmqzpkGZyN4
-  name: Hard Bass School - narkotik kal「中文字幕」
-- link: https://www.youtube.com/watch?v=zwOOhwq_yWU
-  name: 反正我很閒 祖克柏是蜥蜴人@東風音樂祭
-- link: https://www.youtube.com/watch?v=vk1CwL3xf2o
-  name: 甘吧爹ㄋㄟ - 余佩真JenJen
-- link: https://www.youtube.com/watch?v=dh2qJBGEGXI
-  name: 幸福生放送
-- link: https://www.youtube.com/watch?v=5Evln8uDosY
-  name: 救恩書院Unify 2021-2022 Singing Contest 歌唱比賽 記憶棉-MC張天賦
-- link: https://www.youtube.com/watch?v=8sWIMxSVhNk
-  name: 霸王龍 | 恐龍兒歌 | 碰碰狐！兒童兒歌
-- link: https://www.youtube.com/watch?v=j5M6RzGN5JE
-  name: 2022 專業推介叱咤十大：第四位
+- allName: ウ”ィ”エ” チ”ャ”マ”
+  artist: 赤井はあと
+  music: ウ”ィ”エ” チ”ャ”マ”
+  url: https://www.youtube.com/watch?v=mRCfFS0SsCk
+- allName: 520跟487坐海盜船
+  artist: 520, 487
+  music: 520跟487坐海盜船
+  url: https://www.youtube.com/watch?v=3VTHooAhzz8
+- allName: 我總在每一個黑夜想倪，嘲笑自己傻得可以。
+  artist: 520, 487
+  music: 我總在每一個黑夜想倪，嘲笑自己傻得可以。
+  url: https://www.youtube.com/watch?v=ugYnm9n1TgI
+- allName: 能不能再聽一聽，聽倪的聲音。
+  artist: 520, 487
+  music: 能不能再聽一聽，聽倪的聲音。
+  url: https://www.youtube.com/watch?v=lRnHHYoGa0s
+- allName: My Heart Will Go On - Recorder By Candlelight by Matt Mulholland
+  artist: Matt Mulholland
+  music: My Heart Will Go On - Recorder By Candlelight
+  url: https://www.youtube.com/watch?v=X2WH8mHJnhM
+- allName: 威傅串燒3
+  artist: 威傅
+  music: 威傅串燒3
+  url: https://www.youtube.com/watch?v=PWEbAX9TmMo
+- allName: Hard Bass School - narkotik kal「中文字幕」
+  artist: narkotik kal
+  music: Hard Bass School
+  url: https://www.youtube.com/watch?v=CmqzpkGZyN4
+- allName: 反正我很閒 祖克柏是蜥蜴人@東風音樂祭
+  artist: 反正我很閒
+  music: 祖克柏是蜥蜴人@東風音樂祭
+  url: https://www.youtube.com/watch?v=zwOOhwq_yWU
+- allName: 甘吧爹ㄋㄟ - 余佩真JenJen
+  artist: 余佩真JenJen
+  music: 甘吧爹ㄋㄟ
+  url: https://www.youtube.com/watch?v=vk1CwL3xf2o
+- allName: 幸福生放送
+  artist: 蛋捲
+  music: 幸福生放送
+  url: https://www.youtube.com/watch?v=dh2qJBGEGXI
+- allName: 救恩書院Unify 2021-2022 Singing Contest 歌唱比賽 記憶棉-MC張天賦
+  artist: 同學
+  music: 記憶棉-MC張天賦
+  url: https://www.youtube.com/watch?v=5Evln8uDosY
+- allName: 霸王龍 | 恐龍兒歌 | 碰碰狐！兒童兒歌
+  artist: 兒童兒歌
+  music: 霸王龍
+  url: https://www.youtube.com/watch?v=8sWIMxSVhNk
+- allName: 2022 專業推介叱咤十大：第四位
+  artist: 姜濤
+  music: 2022 專業推介叱咤十大：第四位
+  url: https://www.youtube.com/watch?v=j5M6RzGN5JE

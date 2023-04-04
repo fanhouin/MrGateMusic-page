@@ -1,56 +1,104 @@
-- link: https://www.youtube.com/watch?v=cLNfckCjxrI
-  name: Music PandaEP11陳凱詠 曾比特 Kerryta
-- link: https://www.youtube.com/watch?v=32RJPfqxwFo
-  name: Hololive 節奏天國 Remix 10
-- link: https://www.youtube.com/watch?v=x8a9eKU2EWE
-  name: 豉汁男的音樂電台
-- link: https://www.youtube.com/watch?v=3L63VEBK564
-  name: 【欣庭實況】起立，立正，敬禮！老師好！
-- link: https://www.youtube.com/watch?v=xaFIGjRembM
-  name: '百鬼あやめ【歌枠】お歌の深夜練習会:(っ`ω´c):'
-- link: https://www.youtube.com/watch?v=bn7OaRnM9-A
-  name: 【生誕祭】百鬼あやめ 4th Birth Dayライブ!!!!!!!!!!!
-- link: https://www.youtube.com/watch?v=Z0_291fPFU0
-  name: 「CY8ERなりの横浜アリーナ at 日本武道館」[ 2021.1.10 ]
-- link: https://www.youtube.com/watch?v=P9U1kwg6toY
-  name: my little airport live 2019 | FULL SET
-- link: https://www.youtube.com/watch?v=tLrnWxXsyho
-  name: 五月天 陪你跨年演唱會 [ 線上特別版 ] MAYDAY FLY TO 2022
-- link: https://www.youtube.com/watch?v=eQH3kqkZY-4
-  name: '水曜日のカンパネラ: DOG HOUSE STUDIO | ICM MUSIC'
-- link: https://www.youtube.com/watch?v=m_SCrfqwZMg
-  name: DUO Eason Chan 陳奕迅 2010演唱會
-- link: https://www.youtube.com/watch?v=aif2XF2iMSI
-  name: my little airport 我都唔知道 LIVE | FULL SET
-- link: https://www.youtube.com/watch?v=0V7aUT13qtM
-  name: Row Row Fight the Power!
-- link: https://www.youtube.com/watch?v=kRuboGYPiAI
-  name: Seal Online OST 28 - Forest of Cross
-- link: https://www.youtube.com/watch?v=pfU0QORkRpY
-  name: FKJ | Ylang Ylang EP (Live Session)
-- link: https://www.youtube.com/watch?v=FLN3b6WweKs
-  name: DEEMO Best Hits in Starry Night
-- link: https://www.youtube.com/watch?v=JrTviqq8-sM
-  name: 【夢箱】・ ミツキヨ「Mitsukiyo - Yume Bako」
-- link: https://www.youtube.com/watch?v=82IyVmHJ2Fw
-  name: The Marías | Playlist
-- link: https://www.youtube.com/watch?v=8vobf7pjLlA
-  name: 房東的貓 - 「20首精選串燒合輯」
-- link: https://www.youtube.com/watch?v=QKzzg3MAJro
-  name: 【歌回LA】本日有重大告知🐺｜singing stream & big news
-- link: https://www.youtube.com/watch?v=uR3aQOgzyDU
-  name: '[playlist] 오래도록 고맙도록'
-- link: https://www.youtube.com/watch?v=7_3v9NpYLvA
-  name: 黎明 Leon Lai 懷舊經典金曲30首
-- link: https://www.youtube.com/watch?v=A922jYCNrF4
-  name: La+Darknesss stream BGM (Osanzi) 作業用
-- link: https://www.youtube.com/watch?v=DkZwJm5wz_s
-  name: 30分耐久BGM】家猫はゆりかごの上で / 猫又おかゆ【公式】
-- link: https://www.youtube.com/watch?v=dizIN6VKC9U
-  name: Anna Takeuchi - TOUR 2022 -TICKETS- at LIQUIDROOM
-- link: https://www.youtube.com/watch?v=yQ33B2F6w38&list=PLuUBaovsofEKAY5rFe8uWuyo7HO0qN3CT&index=2
-  name: 唯有音樂 - 殘酷錄音室系列
-- link: https://www.youtube.com/watch?v=mGAsVJ8ocj4
-  name: 陶喆 soul power 2003 live
-- link: https://www.youtube.com/watch?v=z9tECKZ60zk
-  name: Merry Christmas Mr. Lawrence / Ryuichi Sakamoto
+- allName: Music PandaEP11陳凱詠 曾比特 Kerryta
+  artist: 陳凱詠, 曾比特
+  music: Music PandaEP11
+  url: https://www.youtube.com/watch?v=cLNfckCjxrI
+- allName: Hololive 節奏天國 Remix 10
+  artist: Hololive
+  music: 節奏天國 Remix 10
+  url: https://www.youtube.com/watch?v=32RJPfqxwFo
+- allName: 【欣庭實況】起立，立正，敬禮！老師好！
+  artist: 李欣庭
+  music: 起立，立正，敬禮！老師好！
+  url: https://www.youtube.com/watch?v=3L63VEBK564
+- allName: '百鬼あやめ【歌枠】お歌の深夜練習会:(っ`ω´c):'
+  artist: 百鬼あやめ
+  music: 'お歌の深夜練習会:(っ`ω´c):'
+  url: https://www.youtube.com/watch?v=xaFIGjRembM
+- allName: 【生誕祭】百鬼あやめ 4th Birth Dayライブ!!!!!!!!!!!
+  artist: 百鬼あやめ
+  music: 4th Birth Dayライブ!!!!!!!!!!!
+  url: https://www.youtube.com/watch?v=bn7OaRnM9-A
+- allName: 「CY8ERなりの横浜アリーナ at 日本武道館」[ 2021.1.10 ]
+  artist: CY8ER
+  music: 横浜アリーナ at 日本武道館
+  url: https://www.youtube.com/watch?v=Z0_291fPFU0
+- allName: my little airport live 2019 | FULL SET
+  artist: my little airport
+  music: live 2019 | FULL SET
+  url: https://www.youtube.com/watch?v=P9U1kwg6toY
+- allName: 五月天 陪你跨年演唱會 [ 線上特別版 ] MAYDAY FLY TO 2022
+  artist: 五月天
+  music: 陪你跨年演唱會 [ 線上特別版 ] MAYDAY FLY TO 2022
+  url: https://www.youtube.com/watch?v=tLrnWxXsyho
+- allName: '水曜日のカンパネラ: DOG HOUSE STUDIO | ICM MUSIC'
+  artist: 水曜日のカンパネラ
+  music: DOG HOUSE STUDIO | ICM MUSIC
+  url: https://www.youtube.com/watch?v=eQH3kqkZY-4
+- allName: DUO Eason Chan 陳奕迅 2010演唱會
+  artist: 陳奕迅
+  music: DUO 2010演唱會
+  url: https://www.youtube.com/watch?v=m_SCrfqwZMg
+- allName: my little airport 我都唔知道 LIVE | FULL SET
+  artist: my little airport
+  music: 我都唔知道 LIVE | FULL SET
+  url: https://www.youtube.com/watch?v=aif2XF2iMSI
+- allName: Gurren Lagann-RoW RoW FiGht The PoWeR
+  artist: 天元突破
+  music: RoW RoW FiGht The PoWeR
+  url: https://www.youtube.com/watch?v=7W_Ja7SQD60
+- allName: Seal Online OST 28 - Forest of Cross
+  artist: Seal Online
+  music: Forest of Cross
+  url: https://www.youtube.com/watch?v=kRuboGYPiAI
+- allName: FKJ | Ylang Ylang EP (Live Session)
+  artist: FKJ
+  music: Ylang Ylang EP (Live Session)
+  url: https://www.youtube.com/watch?v=pfU0QORkRpY
+- allName: DEEMO Best Hits in Starry Night
+  artist: DEEMO
+  music: Best Hits in Starry Night
+  url: https://www.youtube.com/watch?v=FLN3b6WweKs
+- allName: 【夢箱】・ ミツキヨ「Mitsukiyo - Yume Bako」
+  artist: ミツキヨ
+  music: Mitsukiyo - Yume Bako
+  url: https://www.youtube.com/watch?v=JrTviqq8-sM
+- allName: The Marías | Playlist
+  artist: The Marías
+  music: The Marías | Playlist
+  url: https://www.youtube.com/watch?v=82IyVmHJ2Fw
+- allName: 房東的貓 - 「20首精選串燒合輯」
+  artist: 房東的貓
+  music: 房東的貓 - 「20首精選串燒合輯」
+  url: https://www.youtube.com/watch?v=8vobf7pjLlA
+- allName: '[playlist] 오래도록 고맙도록'
+  artist: 리플레이LEEPLAY
+  music: '[playlist] 오래도록 고맙도록'
+  url: https://www.youtube.com/watch?v=uR3aQOgzyDU
+- allName: 黎明 Leon Lai 懷舊經典金曲30首
+  artist: 黎明
+  music: 黎明懷舊經典金曲30首
+  url: https://www.youtube.com/watch?v=7_3v9NpYLvA
+- allName: La+Darknesss stream BGM (Osanzi) 作業用
+  artist: La+Darknesss
+  music: stream BGM (Osanzi) 作業用
+  url: https://www.youtube.com/watch?v=A922jYCNrF4
+- allName: 30分耐久BGM】家猫はゆりかごの上で / 猫又おかゆ【公式】
+  artist: 猫又おかゆ
+  music: 家猫はゆりかごの上で
+  url: https://www.youtube.com/watch?v=DkZwJm5wz_s
+- allName: Anna Takeuchi - TOUR 2022 -TICKETS- at LIQUIDROOM
+  artist: Anna Takeuchi
+  music: TOUR 2022 -TICKETS- at LIQUIDROOM
+  url: https://www.youtube.com/watch?v=dizIN6VKC9U
+- allName: 唯有音樂 - 殘酷錄音室系列
+  artist: 唯有音樂
+  music: 殘酷錄音室系列
+  url: https://www.youtube.com/watch?v=yQ33B2F6w38&list=PLuUBaovsofEKAY5rFe8uWuyo7HO0qN3CT&index=2
+- allName: 陶喆 soul power 2003 live
+  artist: 陶喆
+  music: 陶喆 soul power 2003 live
+  url: https://www.youtube.com/watch?v=mGAsVJ8ocj4
+- allName: Merry Christmas Mr. Lawrence / Ryuichi Sakamoto
+  artist: Ryuichi Sakamoto
+  music: Merry Christmas
+  url: https://www.youtube.com/watch?v=z9tECKZ60zk

@@ -1,54 +1,112 @@
-- link: https://www.youtube.com/watch?v=9zEl-FQLI4A
-  name: Sun Rai - San Francisco Street
-- link: https://www.youtube.com/watch?v=BXB26PzV31k
-  name: '[MV] end of a life - Calliope Mori (Original Song)'
-- link: https://www.youtube.com/watch?v=XsdDl1M0ZtQ
-  name: WHIZZ - Sorrowful (Official Music Video)
-- link: https://www.youtube.com/watch?v=HVi5kQjyUVQ
-  name: MILLI - BIBI “The Weekend” (Remix)
-- link: https://www.youtube.com/watch?v=-1Gh3wIkDSE
-  name: gareth.t - boyfriend material (official video)
-- link: https://www.youtube.com/watch?v=xBa3YUgQeL4
-  name: The Weeknd - Out Of Time (Official Lyric Video)
-- link: https://www.youtube.com/watch?v=RB-RcX5DS5A
-  name: Coldplay - The Scientist (Official Video)
-- link: https://www.youtube.com/watch?v=CBrYbMKGbVw
-  name: 92914 - Moonlight (Audio)
-- link: https://www.youtube.com/watch?v=aetXqd9B8WE
-  name: 「Q」- Calliope Mori x Gawr Gura x DECO*27
-- link: https://www.youtube.com/watch?v=sLTRSakuugs
-  name: Keira Knightley | "Lost Stars"
-- link: https://www.youtube.com/watch?v=oofSnsGkops
-  name: James Blunt - You're Beautiful (Official Music Video)
-- link: https://www.youtube.com/watch?v=HJo9rWfwPLo
-  name: PREP - Cheapest Flight
-- link: https://www.youtube.com/watch?v=ScTkEsOKfvg
-  name: The Marías - All I Really Want Is You
-- link: https://www.youtube.com/watch?v=BrF2DQW-vps
-  name: 落日飛車 Sunset Rollercoaster – My Jinji
-- link: https://www.youtube.com/watch?v=zA4uUghPfDs
-  name: MANDARK - MESS'AGE ft. Everydaze
-- link: https://www.youtube.com/watch?v=7r0-Qhn-X_s
-  name: The Dinosaur's Skin 恐龍的皮 - Jurassic Ride
-- link: https://www.youtube.com/watch?v=LnS0f46tx_E
-  name: FKJ - A Moment Of Mystery ft. Toro y Moi (Official Music Video)
-- link: https://www.youtube.com/watch?v=9ehveFohQpk
-  name: The Dinosaur's Skin 恐龍的皮 - Neck and Neck
-- link: https://www.youtube.com/watch?v=zbgWUK_tidI
-  name: 【MV】Non-Fiction 【hololive English -Myth- Original Song】
-- link: https://www.youtube.com/watch?v=JVzERlysvts
-  name: I Really Want to Stay At Your House (Acoustic Cover)
-- link: https://www.youtube.com/watch?v=Z49HJH07U5k
-  name: 莫文蔚 Karen Mok - Close to You
-- link: https://www.youtube.com/watch?v=IwcuscJ71Fk
-  name: Coldiac - No Make Up (feat. NYK)
-- link: https://www.youtube.com/watch?v=nPvuNsRccVw
-  name: Bruno Mars - Treasure (Official Music Video)
-- link: https://www.youtube.com/watch?v=ED2scNuKAg0
-  name: gareth.t - buzz cut (official video)
-- link: https://www.youtube.com/watch?v=IkKzZFquczs
-  name: M/V] 'DREAM LIKE ME' - Crowd Lu X The Black Skirts
-- link: https://www.youtube.com/watch?v=a23h4g0o6Jc
-  name: Jacqueline 黃心穎 “Crown Me” MV
-- link: https://www.youtube.com/watch?v=usJeKVzoDeI
-  name: Kiri T - Temporary [Official Music Video]
+- allName: Sun Rai - San Francisco Street
+  artist: Sun Rai
+  music: San Francisco Street
+  url: https://www.youtube.com/watch?v=9zEl-FQLI4A
+- allName: '[MV] end of a life - Calliope Mori (Original Song)'
+  artist: Calliope Mori
+  music: end of a life
+  url: https://www.youtube.com/watch?v=BXB26PzV31k
+- allName: WHIZZ - Sorrowful (Official Music Video)
+  artist: WHIZZ
+  music: Sorrowful
+  url: https://www.youtube.com/watch?v=XsdDl1M0ZtQ
+- allName: MILLI - BIBI “The Weekend” (Remix)
+  artist: MILLI
+  music: The Weekend
+  url: https://www.youtube.com/watch?v=HVi5kQjyUVQ
+- allName: gareth.t - boyfriend material (official video)
+  artist: gareth.t
+  music: boyfriend material
+  url: https://www.youtube.com/watch?v=-1Gh3wIkDSE
+- allName: The Weeknd - Out Of Time (Official Lyric Video)
+  artist: The Weeknd
+  music: Out Of Time
+  url: https://www.youtube.com/watch?v=xBa3YUgQeL4
+- allName: Coldplay - The Scientist (Official Video)
+  artist: Coldplay
+  music: The Scientist
+  url: https://www.youtube.com/watch?v=RB-RcX5DS5A
+- allName: 92914 - Moonlight (Audio)
+  artist: '92914'
+  music: Moonlight
+  url: https://www.youtube.com/watch?v=CBrYbMKGbVw
+- allName: 「Q」- Calliope Mori x Gawr Gura x DECO*27
+  artist: Calliope Mori, Gawr Gura
+  music: Q
+  url: https://www.youtube.com/watch?v=aetXqd9B8WE
+- allName: Keira Knightley | "Lost Stars"
+  artist: Keira Knightley
+  music: Lost Stars
+  url: https://www.youtube.com/watch?v=sLTRSakuugs
+- allName: James Blunt - You're Beautiful (Official Music Video)
+  artist: James Blunt
+  music: You're Beautiful
+  url: https://www.youtube.com/watch?v=oofSnsGkops
+- allName: PREP - Cheapest Flight
+  artist: PREP
+  music: Cheapest Flight
+  url: https://www.youtube.com/watch?v=HJo9rWfwPLo
+- allName: The Marías - All I Really Want Is You
+  artist: The Marías
+  music: All I Really Want Is You
+  url: https://www.youtube.com/watch?v=ScTkEsOKfvg
+- allName: 落日飛車 Sunset Rollercoaster – My Jinji
+  artist: 落日飛車
+  music: My Jinji
+  url: https://www.youtube.com/watch?v=BrF2DQW-vps
+- allName: MANDARK - MESS'AGE ft. Everydaze
+  artist: MANDARK, Everydaze
+  music: MESS'AGE
+  url: https://www.youtube.com/watch?v=zA4uUghPfDs
+- allName: The Dinosaur's Skin 恐龍的皮 - Jurassic Ride
+  artist: The Dinosaur's Skin 恐龍的皮
+  music: Jurassic Ride
+  url: https://www.youtube.com/watch?v=7r0-Qhn-X_s
+- allName: FKJ - A Moment Of Mystery ft. Toro y Moi (Official Music Video)
+  artist: FKJ, Toro y Moi
+  music: A Moment Of Mystery
+  url: https://www.youtube.com/watch?v=LnS0f46tx_E
+- allName: The Dinosaur's Skin 恐龍的皮 - Neck and Neck
+  artist: The Dinosaur's Skin 恐龍的皮
+  music: Neck and Neck
+  url: https://www.youtube.com/watch?v=9ehveFohQpk
+- allName: 【MV】Non-Fiction 【hololive English -Myth- Original Song】
+  artist: hololive English -Myth-
+  music: Non-Fiction
+  url: https://www.youtube.com/watch?v=zbgWUK_tidI
+- allName: I Really Want to Stay At Your House (Acoustic Cover)
+  artist: Xerces Blue
+  music: I Really Want to Stay At Your House (Cover)
+  url: https://www.youtube.com/watch?v=JVzERlysvts
+- allName: 莫文蔚 Karen Mok - Close to You
+  artist: 莫文蔚
+  music: Close to You
+  url: https://www.youtube.com/watch?v=Z49HJH07U5k
+- allName: Coldiac - No Make Up (feat. NYK)
+  artist: Coldiac
+  music: No Make Up
+  url: https://www.youtube.com/watch?v=IwcuscJ71Fk
+- allName: Bruno Mars - Treasure (Official Music Video)
+  artist: Bruno Mars
+  music: Treasure
+  url: https://www.youtube.com/watch?v=nPvuNsRccVw
+- allName: gareth.t - buzz cut (official video)
+  artist: gareth.t
+  music: buzz cut
+  url: https://www.youtube.com/watch?v=ED2scNuKAg0
+- allName: '[M/V] ''DREAM LIKE ME'' - Crowd Lu X The Black Skirts'
+  artist: Crowd Lu, The Black Skirts
+  music: DREAM LIKE ME
+  url: https://www.youtube.com/watch?v=IkKzZFquczs
+- allName: Jacqueline 黃心穎 “Crown Me” MV
+  artist: 黃心穎
+  music: Crown Me
+  url: https://www.youtube.com/watch?v=a23h4g0o6Jc
+- allName: Kiri T - Temporary [Official Music Video]
+  artist: Kiri T
+  music: Temporary
+  url: https://www.youtube.com/watch?v=usJeKVzoDeI
+- allName: '[Official Audio] Mandark - Playlist'
+  artist: Mandark
+  music: Playlist
+  url: https://www.youtube.com/watch?v=gqcw4Yd0SZs

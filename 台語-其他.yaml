@@ -1,12 +1,24 @@
-- link: https://www.youtube.com/watch?v=yRNia0_tbgY
-  name: WHY NOT《無法度按捺》官方MV (Official Music Video)
-- link: https://www.youtube.com/watch?v=g4mQmLZ-lEw
-  name: 珂拉琪 Collage／蓮花空行身染愛
-- link: https://www.youtube.com/watch?v=0rp3pP2Xwhs
-  name: 茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大
-- link: https://www.youtube.com/watch?v=-H4eVXJLZUw
-  name: 珂拉琪 Collage／TORATORAW
-- link: https://www.youtube.com/watch?v=5VUUGZ1-nlY
-  name: 五月天 Mayday【志明與春嬌 Peter&Mary】Official Music Video
-- link: https://www.youtube.com/watch?v=qXv7POo5MNI
-  name: 蘇打綠 sodagreen -【無眠】Official Music Video
+- allName: WHY NOT《無法度按捺》官方MV (Official Music Video)
+  artist: WHY NOT
+  music: 無法度按捺
+  url: https://www.youtube.com/watch?v=yRNia0_tbgY
+- allName: 珂拉琪 Collage／蓮花空行身染愛
+  artist: 珂拉琪 Collage
+  music: 蓮花空行身染愛
+  url: https://www.youtube.com/watch?v=g4mQmLZ-lEw
+- allName: 茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大
+  artist: 茄子蛋EggPlantEgg
+  music: 愛情你比我想的閣較偉大
+  url: https://www.youtube.com/watch?v=0rp3pP2Xwhs
+- allName: 珂拉琪 Collage／TORATORAW
+  artist: 珂拉琪 Collage
+  music: TORATORAW
+  url: https://www.youtube.com/watch?v=-H4eVXJLZUw
+- allName: 五月天 Mayday【志明與春嬌 Peter&Mary】Official Music Video
+  artist: 五月天
+  music: 志明與春嬌
+  url: https://www.youtube.com/watch?v=5VUUGZ1-nlY
+- allName: 蘇打綠 sodagreen -【無眠】Official Music Video
+  artist: 蘇打綠
+  music: 無眠
+  url: https://www.youtube.com/watch?v=qXv7POo5MNI
