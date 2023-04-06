@@ -30,9 +30,3 @@ for wks in wks_list:
 
     with open(f'playlist/{wks_title}.yaml', 'w', encoding='utf-8') as file:
         yaml.dump(yamlData, file, allow_unicode=True)
-
-
-
-
-
-
