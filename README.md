@@ -1,6 +1,5 @@
 # My-PlayList
 
-## Step
 ### Google Sheets
 1. Create a Google Sheet 
 2. Use the [Google Sheets API](https://developers.google.com/sheets/api/guides/concepts)
@@ -11,5 +10,7 @@
 2. Create and Obtain the API key
 
 ### Update schedule (Two methods)
-- Use crontab to run dailyUpdate.sh on a daily basis. (curr use)
-- AWS Lamdba(plan to use)
+- Use crontab to run dailyUpdate.sh on a daily basis. (deprecatecurr use)
+- AWS (currently in use)
+  - Lambda Function: lambdaUpdate.py
+  - EventBridge: Execute the lambda function once a day
