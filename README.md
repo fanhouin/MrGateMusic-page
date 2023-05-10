@@ -10,7 +10,7 @@
 2. Create and Obtain the API key
 
 ### Update schedule (Two methods)
-- Use crontab to run dailyUpdate.sh on a daily basis. (deprecatecurr use)
+- Use crontab to run dailyUpdate.sh on a daily basis. (deprecate)
 - AWS (currently in use)
   - Lambda Function: lambdaUpdate.py
   - EventBridge: Execute the lambda function once a day
